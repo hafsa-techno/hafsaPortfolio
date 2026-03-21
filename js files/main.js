@@ -111,7 +111,7 @@ let cardsArr = [
         imgSrc: "images/realestateProject.png",
         projectTitle: "Realestate website",
         projectCategory: "website",
-        projectLink: "https://hafsa-techno.github.io/hafsa-realestate/"
+        projectLink: "https://hafsa-techno.github.io/hafsa_realestate/"
     },
     {
         imgSrc: "images/bondiProject.png",
