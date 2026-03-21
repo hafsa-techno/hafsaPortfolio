@@ -99,101 +99,98 @@ let cardsArr = [
         imgSrc: "images/trestoProject.png",
         projectTitle: "Tresto Landing",
         projectCategory: "website",
-        projectLink: "https://hafsaidsaid.github.io/tresto/"
+        projectLink: "https://hafsa-techno.github.io/tresto/"
     },
     {
         imgSrc: "images/woosterProject.png",
         projectTitle: "wooster Landing",
         projectCategory: "website",
-        projectLink: "https://hafsaidsaid.github.io/wooster/"
+        projectLink: "https://hafsa-techno.github.io/wooster/"
     },
     {
         imgSrc: "images/realestateProject.png",
         projectTitle: "Realestate website",
         projectCategory: "website",
-        projectLink: "https://hafsaidsaid.github.io/hafsa-realestate/"
+        projectLink: "https://hafsa-techno.github.io/hafsa-realestate/"
     },
-    
     {
         imgSrc: "images/bondiProject.png",
         projectTitle: "Bondi Landing",
         projectCategory: "website",
-        projectLink: "https://hafsaidsaid.github.io/bondi/"
+        projectLink: "https://hafsa-techno.github.io/bondi/"
     },
     {
         imgSrc: "images/accordionProject2.png",
         projectTitle: "accordion",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/accordion/"
+        projectLink: "https://hafsa-techno.github.io/accordion/"
     },
     {
         imgSrc: "images/formProject.png",
         projectTitle: "form design",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/form_design/"
+        projectLink: "https://hafsa-techno.github.io/form_design/"
     },
     {
         imgSrc: "images/tipProject.png",
         projectTitle: "Tip Calculator",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/tip_calculator/"
+        projectLink: "https://hafsa-techno.github.io/tip_calculator/"
     },
     {
         imgSrc: "images/todoProject.png",
         projectTitle: "Todo List",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/todo_list/"
+        projectLink: "https://hafsa-techno.github.io/todo_list/"
     },
     {
         imgSrc: "images/robotProject.png",
         projectTitle: "Draw Robot",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/robot/"
+        projectLink: "https://hafsa-techno.github.io/robot/"
     },
     {
         imgSrc: "images/massConverterProject.png",
         projectTitle: "Mass Converter",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/mass_converter/"
+        projectLink: "https://hafsa-techno.github.io/mass_converter/"
     },
     {
         imgSrc: "images/miniCalendarProject.png",
         projectTitle: "Mini Calendar",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/mini_calendar/"
+        projectLink: "https://hafsa-techno.github.io/mini_calendar/"
     },
     {
         imgSrc: "images/guessNumberProject.png",
         projectTitle: "Guess Number Game",
         projectCategory: "game",
-        projectLink: "https://hafsaidsaid.github.io/guess_number/"
+        projectLink: "https://hafsa-techno.github.io/guess_number/"
     },
     {
         imgSrc: "images/chronometerProject.png",
         projectTitle: "Chronometer Project",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/chronometer/"
+        projectLink: "https://hafsa-techno.github.io/chronometer/"
     },
     {
         imgSrc: "images/ageCalculatorProject.png",
         projectTitle: "Age Calculator",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/age_calculator/"
+        projectLink: "https://hafsa-techno.github.io/age_calculator/"
     },
     {
         imgSrc: "images/ecommerceWebsiteProject.png",
         projectTitle: "Ecommerce Store",
         projectCategory: "other",
-        projectLink: "https://hafsaidsaid.github.io/ecommerce_store/"
+        projectLink: "https://hafsa-techno.github.io/ecommerce_store/"
     },
-    //diceGameProject
     {
         imgSrc: "images/diceGameProject.png",
         projectTitle: "Dice Game",
         projectCategory: "game",
-        projectLink: "https://hafsaidsaid.github.io/dice_game/"
+        projectLink: "https://hafsa-techno.github.io/dice_game/"
     },
-
 ];
 
 const cardsCon = document.querySelector(".projects-sec .cards");
